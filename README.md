@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-[Solution](single-price-grid-component-master.html)
+- Solution URL: [Solution Url](https://chiwykes.github.io/Single-Price-Grid-Component-Master/single-price-grid-component-master.html)
+[Solution html](single-price-grid-component-master.html)
 
 ## My process
 
