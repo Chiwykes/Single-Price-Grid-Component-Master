@@ -75,6 +75,6 @@ I will continue to work and improve with projects allowing me to make use of fle
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@chiwykes](https://www.frontendmentor.io/profile/chiwykes)
 
 
